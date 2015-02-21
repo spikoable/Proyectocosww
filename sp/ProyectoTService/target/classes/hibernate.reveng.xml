@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd">
+<hibernate-reverse-engineering>
+  <schema-selection match-catalog="coswg2"/>
+  <table-filter match-name="Oferta_has_Postulante"/>
+  <table-filter match-name="Persona"/>
+  <table-filter match-name="Experiencia Laboral"/>
+  <table-filter match-name="Calificacion"/>
+  <table-filter match-name="Publicante"/>
+  <table-filter match-name="Correo"/>
+  <table-filter match-name="Interes"/>
+  <table-filter match-name="Oferta"/>
+  <table-filter match-name="Postulante"/>
+  <table-filter match-name="Oferta_has_Categoria"/>
+  <table-filter match-name="Direcciones"/>
+  <table-filter match-name="Categoria"/>
+  <table-filter match-name="Hoja de Vida"/>
+  <table-filter match-name="Persona_has_Experiencia Laboral"/>
+  <table-filter match-name="Licencias"/>
+  <table-filter match-name="Factura"/>
+</hibernate-reverse-engineering>
